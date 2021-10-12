@@ -23,6 +23,6 @@ In the event that no participants were able to match 3 numbers on any draw, the 
 The lottery aims to be completely random. Even though the ticket numbers given out are determined by a front-end logic, there is an extremely low chance that anyone is able to determine the 4 winning numbers ahead of time.
 
 * The 1st lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the number of participating users at the entry deadline.
-* The 2nd lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the total pooled Golden Egg balance at the entry deadline.
+* The 2nd lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the total pooled balance at the entry deadline.
 * The 3rd lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the timestamp of the last lottery participant at the entry deadline.
 * The 4th lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the block difficulty at the entry deadline.
