@@ -27,18 +27,3 @@ $$
 {% hint style="info" %}
 2% of MIS/Block emissions will be allocated to the GameFi platform treasuries, 1.09% will be burnt periodically. 2% will be allocated to cover marketing costs and airdrops and 4% will be allocated to cover developer hours and bounties.
 {% endhint %}
-
-#### Emission schedule:
-
-| Week   | MIS/Block |
-| ------ | --------- |
-| Week 1 | 3.5       |
-| Week 2 | 3         |
-| Week 3 | 2.5       |
-| Week 4 | 2         |
-| Week 5 | 2         |
-| Week 6 | 2         |
-| Week 7 | 2         |
-| Week 8 | 2         |
-| Week 9 | 2         |
-| ∞      | 2         |
