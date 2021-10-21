@@ -21,7 +21,7 @@ Phase 3 is where Artemis Protocol goes live, featuring our launchpad products, l
 
 #### Governance & Community
 
-* [ ] Protocol Governance
+* [x] Protocol Governance
 * [ ] Self Governed Incubator / Pools / LP Listings
 * [ ] Permissionless listings on the Incubator & Launchpad
 * [ ] Implementation of xMIS in Governance
@@ -29,6 +29,8 @@ Phase 3 is where Artemis Protocol goes live, featuring our launchpad products, l
 **Products**
 
 * [x] Casino games expansion
+* [x] Incubator
+* [x] Hades Pools
 * [ ] Auto-compounding Vaults
 * [ ] xMIS, a vested version of $MIS based on Curve's veCRV contracts
 * [ ] In-house Swapping through multiple DEXes routers
