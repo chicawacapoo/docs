@@ -4,7 +4,7 @@ description: An overview of the Hades Pools
 
 # Hades Pools
 
-Liquidity Mining (Elysium) is an efficient way to distribute Artemis' Governance token MIS, however, it is at the cost of inflation and supply expansion. Presenting the Hades Pools, a product built on Artemis Earn that allows users to burn MIS in return for rewards in tokens distributed over a set period of time. Hades Pools are 100% deflationary, as rewards are not minted (such as is the case with Elysium), but rather allocated.
+Liquidity Mining (Elysium) is an efficient way to distribute Artemis' Governance token MIS, however, it is at the cost of inflation and supply expansion. Presenting the Hades Pools, a product built on Artemis Earn that allows users to burn MIS in return for rewards in tokens distributed over a set period of time. Hades Pools are 100% deflationary, as rewards are not minted (such as is the case with Elysium), but rather allocated -&#x20;
 
 {% hint style="warning" %}
 Once MIS is deposited in a Hades Pool, it can't be withdrawn
