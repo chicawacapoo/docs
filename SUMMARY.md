@@ -6,16 +6,9 @@
 
 * [MIS | Tokenomics](the-protocol/tokenomics/README.md)
   * [xMIS](the-protocol/tokenomics/xmis.md)
-* [Artemis Earn](the-protocol/artemis-earn/README.md)
-  * [Elysium: Liquidity Mining](the-protocol/artemis-earn/staking.md)
-  * [Hades Pools](the-protocol/artemis-earn/hades-pools.md)
-  * [Vault Strategies](the-protocol/artemis-earn/vault-strategies.md)
-* [Launchpad](the-protocol/launchpad-1/README.md)
-  * [ArtemisPad](the-protocol/launchpad-1/artemispad.md)
-  * [Incubator | LAAS](the-protocol/launchpad-1/incubator.md)
-* [GameFi](the-protocol/gamefi/README.md)
-  * [Lottery](the-protocol/gamefi/lottery.md)
-  * [The Wheel](the-protocol/gamefi/wheel.md)
+* [ArtemisPad](the-protocol/artemispad.md)
+* [Liquidity Mining](the-protocol/staking.md)
+* [Incubator](the-protocol/incubator.md)
 * [Roadmap](the-protocol/roadmap.md)
 
 ## Community & Governance <a href="community" id="community"></a>
