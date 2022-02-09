@@ -14,10 +14,10 @@ Go to [SpookySwap](https://spookyswap.finance) and connect your Metamask wallet 
 
 > **Step 3:**
 
-On the Bridge tab, choose Fantom on ‘_From Chain ’ _and on ‘_To Chain’ _choose BSC. Choose BNB as the token to bridge and confirm the transactions. After the bridging is complete, you should see BNB on your BSC Network Metamask.
+On the Bridge tab, choose Fantom on ‘_From Chain ’_ and on ‘_To Chain’_ choose BSC. Choose BNB as the token to bridge and confirm the transactions. After the bridging is complete, you should see BNB on your BSC Network Metamask.
 
 > Step 4:
 
-Go to [https://bridge.harmony.one/](https://bridge.harmony.one/erc20); on the right side, choose Binance and click on both Metamask promts.  Now make sure you are bridging from Binance > One and choose BNB. Select the amount you’d like to bridge and click on _‘Use my address’ . _Click on _‘Continue’ _and confirm the following transactions.
+Go to [https://bridge.harmony.one/](https://bridge.harmony.one/erc20); on the right side, choose Binance and click on both Metamask promts.  Now make sure you are bridging from Binance > One and choose BNB. Select the amount you’d like to bridge and click on _‘Use my address’ ._ Click on _‘Continue’_ and confirm the following transactions.
 
 That’s all, you should now see your bscBNB on your Harmony’s Metamask account. You can swap BNB for ONE on [https://game.defikingdoms.com/#/](https://game.defikingdoms.com/#/) or [https://viperswap.one/](https://viperswap.one)

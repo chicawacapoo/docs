@@ -32,9 +32,8 @@ Phase 3 is where Artemis Protocol goes live.
 * [x] Incubator
 * [x] Hades Pools
 * [x] Auto-compounding MIS staking
-* [ ] xMIS, a vested version of $MIS based on Curve's veCRV contracts
-* [ ] In-house Swapping through multiple DEXes routers
-* [ ] In-house Bridging through The Horizon Bridge
+* [ ] In-house multi-chain swapping
+* [ ] Vested IDOs
 
 #### Misc
 
