@@ -22,7 +22,6 @@ In our third phase, Alloy Protocol goes live.
 #### Governance & Community
 
 * [ ] Protocol Governance
-* [ ] Self Governed Incubator / Pools / LP Listings
 * [ ] Permissionless listings on the Incubator & Launchpad
 * [ ] Implementation of xALY in Governance
 
@@ -31,7 +30,7 @@ In our third phase, Alloy Protocol goes live.
 * [ ] Incubator
 * [ ] Auto-compounding ALY staking
 * [ ] GameFi
-* [ ] Vested IDOs
+* [ ] In house Liquidity 
 
 #### Misc
 
