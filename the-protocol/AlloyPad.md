@@ -18,8 +18,8 @@ Proejects wishing to launch on Alloy will be reviewed and auditted by the Alloy 
 
 ### User Workflow
 
-Users lock MIS as collateral in order to be whitelisted during the sale, these then commit Wrapped ONE to buy the tokens being sold. The system follows an overflow sales method, in which users can subscribe as much or as little as they want to the token sale, and their final allocation will be based on the amount of funds they put in as a percentage of all funds put in by other users at the time the sale ends. Users will receive back any leftover funds when they claim their tokens after the sale. In the case all the funds targeted aren't raised, the sale will proceed as normal, and all funds contributed will be spent.
+Users lock ALY as collateral in order to be eligible to participate, these then commit Wrapped FUSE to buy the tokens listed in the presale. The system follows an overflow sales method, in which users can subscribe as much or as little as they want to the token sale, and their final allocation will be based on the amount of funds they put in as a percentage of all funds put in by other users at the time the sale ends. Users will receive back any leftover funds when they claim their tokens after the sale. In the case all the funds targeted aren't raised, the sale will proceed as normal, and all funds contributed will be spent.
 
 ### What happens after launch?
 
-Projects wishing to launch on Artemis will not only be able to raise capital for liquidity and to cover development costs, but also will be rewarded for it by Artemis, this includes taking part in our incubator and incentivized liquidity pools, as well as being able to apply to the Artemis Hunt incentives program.
+Projects wishing to launch on Alloy will not only be able to raise capital for liquidity and to cover development expenses, but also will be rewarded for it by Alloy, which includes taking part in designated incubator and incentivized liquidity pools.
