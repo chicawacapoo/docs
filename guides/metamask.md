@@ -18,8 +18,8 @@ In order to connect to the Harmony Network, open Metamask and on top click on th
 
 | Field                             | Mainnet                         |
 | --------------------------------- | ------------------------------- |
-| **Network Name**                  | `Harmony Mainnet`               |
-| **New RPC URL**                   | `https://api.harmony.one`       |
-| **Chain ID**                      | `1666600000`                    |
-| **Currency symbol (optional)**    | `ONE`                           |
-| **Block Explorer URL (optional)** | `https://explorer.harmony.one/` |
+| **Network Name**                  | `FUSE Mainnet`                  |
+| **New RPC URL**                   | `https://rpc.fuse.io`       |
+| **Chain ID**                      | `122`                    |
+| **Currency symbol (optional)**    | `FUSE`                           |
+| **Block Explorer URL (optional)** | `https://explorer.fuse.io` |
