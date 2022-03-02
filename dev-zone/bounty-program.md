@@ -4,5 +4,4 @@ We have set up a small Bounty Program for community members to compete in, and e
 
 * [ ] Discord Tipbot
 * [ ] Discord and Telegram Pricebot
-* [ ] MIS live price chart
-* [ ] Medium How-To articles
+* [ ] Medium Guidance Articles
