@@ -1,20 +1,20 @@
 ---
-description: An overview of the ArtemisPad.
+description: An overview of the AlloyPad.
 ---
 
-# ArtemisPad
+# AlloyPad
 
 ### Introduction
 
-The ArtemisPad, a token launchpad for forthcoming projects in the Harmony ecosystem, is one of Artemis' first integrated products, and its most fundamental one. We aim to decentralize the way ideas raise capital, by aligning the interests of both users and creators via attractive incentives and yields.&#x20;
+The AlloyPad is a token launchpad for newly developed projects in the Fuse ecosystem and is our most fundamental DeFi solution. We aim to decentralize the way ideas raise capital, by aligning the interests of both users and creators via attractive incentives and yields.&#x20;
 
-The ArtemisPad allows projects to list its tokens at a fixed price, which will be maintained for as long as there is time remaining in the sale. This ensures less volatility around a token launch and allows a project and its investors increased transparency over the amount of money raised and tokens sold. Fixed price commits solve three fundamental problems:
+The AlloyPad allows projects to allocate tokens at a fixed price, which will be maintained for the duration of the sale offering. This ensures less volatility around a token launch and allows a project and its investors increased transparency over the amount of money raised and tokens sold. Our fixed price offering aims to solve 3 fundamental problems with Token launches:
 
 1. Unfair token distribution and liquidity rug-pulls.
 2. Prevents token dumps by private and seed investors.
 3. Reduces token offering costs on decentralized exchanges.
 
-Projects wishing to distribute tokens through the ArtemisPad will be reviewed by[ Harmony Universe](https://harmonyuniverse.one), a platform known as the central hub for Harmony Protocol projects, once the review is published, Artemis Governance will fairly decide if the project should be launched on the platform through voting.
+Proejects wishing to launch on Alloy will be reviewed and auditted by the Alloy team, as well as screened by leading members of the Fuse DAO.
 
 ### User Workflow
 
