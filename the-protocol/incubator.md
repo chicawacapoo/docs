@@ -8,6 +8,6 @@ The Incubator is the core of Alloy's fair token distribution capabilities for ne
 
 Say Roland is working on a project and launched her coin ($ROL). Understandably, wants to fairly distribute it to holders while building liquidity for it, what Alice could do is visit Artemis, and seamlessly set up a ALY<>ROLD farm that rewards farmers in ALI. Alloy governance would then review ROL and flag the project based on a set criteria.
 
-{% hint style="info" %}
+
 We will release more information on the Incubator in upcoming days.
-{% endhint %}
+
