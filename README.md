@@ -1,11 +1,11 @@
 ---
-description: An introduction to the Artemis Protocol.
+description: An introduction to the Alloy Protocol .
 ---
 
-# Introduction
+# Intro
 
-Decentralized Finance has taken down walls in ways CeFi never could by leveraging the potential of composability, a system design principle that deals with the inter-relationships of components. But, _what are those components?_
+AlloyPad is a multi-product DeFi protocol built on the Fuse Blockchain **striving to incubate protocols developing and launching on in the Fuse community.** By kickstarting these projects, Alloy aims to create on chain liquitidty whil still maintaining DeFi's decentralized and permissionless nature (all while providing desirable APRs!).
 
-Presenting Artemis, a multi-product Decentralized Finance protocol built on the Harmony Blockchain **** that strives to incubate those said components that build up composability: the projects and ideas. By bootstrapping these projects in a permissionless and decentralized manner by providing liquidity and exposure as a service, Artemis aims to solve what might be called the “liquidity dilemma”, that is, creating forms of on-chain liquidity without sacrificing the network's decentralization - while offering attractive yields for risk-keen users.
+We intend to foster a tightly knit Fuse community by building an ecoststem with new rising projects and, all while offering our own wide range of DeFi solutions.
 
-We intend to create a broader range of network effects, rather than limiting the protocol to a single solution, achieved by building an ecosystem of built-in products and partnerships with different protocols built on Harmony.
+
