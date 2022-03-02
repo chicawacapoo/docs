@@ -18,15 +18,12 @@ Since Alloy aims to build on-chain liquidity while offering stable yield, it bel
 
 ALY tokens are minted on each block once rewards begin. Our total allocation is based on the following rule,
 
-$$
 ∑ i ≪ ∑ h / (i = allocation(e/pool)∧ h=allocation(e/lp))
-$$
 
 Where,
 
-$$
 ∑ i + ∑ h = 100
-$$
+
 
 It is to be noted that among incentivized liquidity pairs, the allocation destined to native pairs will also be strictly higher than that of non-native ones, consequence of our intention to build liquidity around our governance token, which means that if one was to swap from x token to y token (being y a newly-bridged token), the DEX hosting its liquidity would have to route through ALY, that is
 
