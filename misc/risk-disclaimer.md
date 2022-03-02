@@ -4,7 +4,7 @@ description: We encourage everyone to read this before joining ALLOY
 
 # Risk Disclaimer
 
-**Always do your own research.**
+**Always DYOR!**
 
 There are risks involved when interacting with projects in the decentralized finance space. Although we are doing our best to secure our smart contracts, there is always a risk of a potential exploit. You must be aware that getting ALY (and by extension any crypto, especially volatile DeFi tokens and smaller projects) carries a risk of loss of value.&#x20;
 
